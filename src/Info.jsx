@@ -45,7 +45,7 @@ function Info() {
                 <p class="mt-4 text-gray-700">
                 Hi, I’m Diksha, a professional model based in Chandigarh. With a passion for fashion, elegance, and creative expression, I bring confidence and charisma to every photoshoot, runway, and campaign I work on.
 
-From high-fashion editorials to commercial projects, I love collaborating with designers, photographers, and brands to create stunning visuals that tell a story. My journey in modeling has allowed me to explore diverse styles and push creative boundaries, always striving to bring something fresh and unique to every project.
+From high-fashion editorials to commercial projects I love collaborating with designers, photographers, and brands to create stunning visuals that tell a story. My journey in modeling has allowed me to explore diverse styles and push creative boundaries, always striving to bring something fresh and unique to every project.
 
 Beyond the camera, I am deeply passionate about fitness, self-care, and staying up-to-date with the latest trends in fashion and beauty. I believe in using my platform to inspire confidence and self-expression in others.
 
